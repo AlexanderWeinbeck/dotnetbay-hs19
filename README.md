@@ -12,6 +12,8 @@ With focus on the .NET-Stack, at least the following technologies should be adde
 * ASP.NET WebApi
 * ASP.NET SignalR
 
+![Build status](https://ci.appveyor.com/api/projects/status/eobidjh1rcyr6mf7/branch/master?svg=true)
+
 See more details on the official course website: http://web.fhnw.ch/plattformen/dnead
 
 ## Contribution
@@ -30,7 +32,7 @@ The following products / tools are needed to contribute / fork.
 * Martin Kropp
 * Daniel Pfulg
 
-* Tobias Rüegsegger
+* Tobias RÃ¼egsegger
 * Alexander Weinbeck
 
 ## License
