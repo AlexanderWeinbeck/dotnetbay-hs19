@@ -1,3 +1,5 @@
+![Build status](https://ci.appveyor.com/api/projects/status/eobidjh1rcyr6mf7/branch/master?svg=true)
+
 # dotnetbay - A .NET Auction Bootstrapper 
 A bootstrap solution to build your own basic auction portal.
 
@@ -11,8 +13,6 @@ With focus on the .NET-Stack, at least the following technologies should be adde
 * ASP.NET MVC 5
 * ASP.NET WebApi
 * ASP.NET SignalR
-
-![Build status](https://ci.appveyor.com/api/projects/status/eobidjh1rcyr6mf7/branch/master?svg=true)
 
 See more details on the official course website: http://web.fhnw.ch/plattformen/dnead
 
